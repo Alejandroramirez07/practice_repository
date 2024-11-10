@@ -13,7 +13,7 @@ practice_repository
 node_modules
 
 # Ignora todos los archivos de texto
-*.txt
+#*.txt
 
 # Ignora los archivos relacionados a API keys
 .env
